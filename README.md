@@ -1,1 +1,1 @@
-Untuk yang mau SQL nya silahkan email ke salaphalghibrany@gmail.com
+Sistem Penentuan Departement Terbaik dengan menggunakan metode AHP
